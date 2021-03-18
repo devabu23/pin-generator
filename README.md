@@ -1,1 +1,1 @@
-# pin-generator
+# pin-generator.
